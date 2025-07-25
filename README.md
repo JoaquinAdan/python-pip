@@ -1,3 +1,8 @@
 # python-pip
-# python-pip
-# python-pip
+
+Para correr el juego debes seguir los siguientes pasos en la terminal:
+
+```sh
+cd game
+python3 main.py
+```
